@@ -1,4 +1,4 @@
-Task 3: SQL for Data Analysis – Jewelry E-commerce Dataset
+SQL for Data Analysis – Jewelry E-commerce Dataset
 
 Objective
 This task focuses on performing data analysis using **SQL** to extract insights from a jewelry e-commerce dataset. The main goal was to apply core SQL concepts such as data retrieval, filtering, aggregation, subqueries, joins, and optimization techniques.
