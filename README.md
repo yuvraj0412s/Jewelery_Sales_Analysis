@@ -65,7 +65,9 @@ df.columns = [
 
 df.to_csv("jewelry_cleaned.csv", index=False)
 ```
-🎯 Skills & Tools Demonstrated
+---
+
+## 🎯 Skills & Tools Demonstrated
 Python: Data cleaning and CSV manipulation using Pandas
 SQL: Complex query writing including JOINs, subqueries, grouping, aggregation
 Database Design: Creating normalized tables and views for modular querying
